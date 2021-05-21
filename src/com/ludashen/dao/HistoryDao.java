@@ -21,7 +21,7 @@ public class HistoryDao {
 
     public static Boolean history(int hid){
         /**
-         * @description: 退房记录---数据库语句的作用是把查找出来的数据安装对应的格式存储到新的表里边
+         * @description: 退房记录---数据库语句的作用是把查找出来的数据复制到对应的格式存储到新的表里边
          * @param hid     房子id
          * @return: java.lang.Boolean
          * @author: 陆均琪

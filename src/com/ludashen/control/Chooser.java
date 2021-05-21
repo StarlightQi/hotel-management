@@ -11,7 +11,7 @@ import javax.swing.event.AncestorEvent;
 import javax.swing.event.AncestorListener;
 
 /**
- * @description: 自定义日历输入框
+ * @description: 自定义日历输入框，该面板百度而来，做了细微的修改
  * @Data: 2019-11-25 18:04
  */
 
@@ -68,7 +68,6 @@ public class Chooser extends JPanel{
          * @return: com.ludashen.control.Chooser
          * @time: 2019-12-05 12:32
          */
-        
         return new Chooser(date, DEFAULTFORMAT, defaultStartDAY);
     }
 

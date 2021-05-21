@@ -1,13 +1,12 @@
 package com.ludashen.control;
 
-import com.ludashen.hothl.House;
 import com.ludashen.hothl.Reservation;
 
 import javax.swing.*;
 import java.util.List;
 
 /**
- * @description:
+ * @description:订单模型
  * @author: 陆均琪
  * @Data: 2019-12-06 8:51
  */

@@ -2,11 +2,9 @@ package com.ludashen.control;
 
 import javax.swing.*;
 import java.awt.*;
-import java.awt.event.ActionEvent;
-import java.awt.event.ActionListener;
 
 /**
- * @description:
+ * @description:酒店简介实现，打字特效
  * @author: 陆均琪
  * @Data: 2019-12-09 20:45
  */

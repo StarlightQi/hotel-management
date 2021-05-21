@@ -51,20 +51,6 @@ public class HistoryStatics extends JPanel {
             defaultcategorydataset.addValue((Long) count.get("c"), "First", (Comparable) count.get("t"));
         }
 
-//        for (Map<String, Object> count : HistoryDao.count2()) {
-//            String g=(String) count.get("x");
-//            String[] split = g.split(",");
-//            int t=0;
-//            int f=0;
-//            for (String s:split){
-//                if(s.equals("1"))
-//                    t++;
-//                else
-//                    f++;
-//            }
-//            defaultcategorydataset.addValue(t, "normal", (Comparable) count.get("t"));
-//            defaultcategorydataset.addValue(f, "abnormal", (Comparable) count.get("t"));
-//        }
         return defaultcategorydataset;
     }
 

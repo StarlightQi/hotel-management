@@ -3,6 +3,7 @@ package com.ludashen.dao;
 import com.alibaba.druid.pool.DruidDataSourceFactory;
 
 import javax.sql.DataSource;
+import javax.swing.*;
 import java.io.IOException;
 import java.sql.Connection;
 import java.sql.ResultSet;
@@ -29,9 +30,9 @@ public class DaoConnection {
             //2.获取DataSource
             ds = DruidDataSourceFactory.createDataSource(pro);
         } catch (IOException e) {
-            e.printStackTrace();
+            JOptionPane.showMessageDialog(null,"数据库连接失败！"+e.getMessage());
         } catch (Exception e) {
-            e.printStackTrace();
+            JOptionPane.showMessageDialog(null,"数据库连接失败！"+e.getMessage());
         }
     }
 
@@ -44,7 +45,8 @@ public class DaoConnection {
          * @author: 陆均琪
          * @time: 2019-12-04 22:23
          */
-        return ds.getConnection();
+            return ds.getConnection();
+
     }
 
 
@@ -67,7 +69,7 @@ public class DaoConnection {
             try {
                 rs.close();
             } catch (SQLException e) {
-                e.printStackTrace();
+                JOptionPane.showMessageDialog(null,"数据库关闭失败！"+e.getMessage());
             }
         }
 
@@ -76,7 +78,7 @@ public class DaoConnection {
             try {
                 stmt.close();
             } catch (SQLException e) {
-                e.printStackTrace();
+                JOptionPane.showMessageDialog(null,"数据库关闭失败！"+e.getMessage());
             }
         }
 
@@ -84,7 +86,7 @@ public class DaoConnection {
             try {
                 conn.close();//归还连接
             } catch (SQLException e) {
-                e.printStackTrace();
+                JOptionPane.showMessageDialog(null,"数据库关闭失败！"+e.getMessage());
             }
         }
     }
@@ -99,7 +101,17 @@ public class DaoConnection {
          * @author: 陆均琪
          * @time: 2019-12-04 22:24
          */
+        try {
+            getConnection();
+            return ds;
+        }catch (SQLException e){
+            JOptionPane.showMessageDialog(null,"数据库连接异常"+e.getMessage());
+            System.exit(1);
+            return null;
+        }
+    }
 
-        return  ds;
+    public static void main(String[] args) {
+        System.out.println(getDataSource());
     }
 }

@@ -120,7 +120,7 @@ public class Tool {
 		RTable table=new RTable();
 		RScrollPane jScrollPane=new RScrollPane(table,"");
 		jScrollPane.setBounds(x,y,w,h);
-		jScrollPane.getVerticalScrollBar().setUI(new DemoScrollBarUI());
+
 		p.add(jScrollPane);
 		return table;
 
@@ -131,8 +131,6 @@ public class Tool {
 		list.setOpaque(false);
 		list.setFont(new Font(Font.SERIF, Font.PLAIN, 18));
 		RScrollPane jp = new RScrollPane(list,"");
-		jp.getVerticalScrollBar().setUI(new DemoScrollBarUI());
-		jp.getHorizontalScrollBar().setUI(new DemoScrollBarUI());
 		jp.setBounds(x,y,w,h);
 		p.add(jp);
 		return list;

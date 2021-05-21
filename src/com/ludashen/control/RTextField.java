@@ -4,7 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @description:
+ * @description:文本输入框重写
  * @author: 陆均琪
  * @Data: 2019-12-08 11:18
  */

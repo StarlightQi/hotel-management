@@ -5,7 +5,7 @@ import javax.swing.*;
 import java.awt.*;
 
 /**
- * @description:
+ * @description: 滚动面板重写
  * @author: 陆均琪
  * @Data: 2019-12-09 0:13
  */
@@ -14,6 +14,8 @@ public class RScrollPane extends JScrollPane {
     public RScrollPane(Component comp,String path) {
         super(comp);
         getViewport().setOpaque(false);
+        getVerticalScrollBar().setUI(new RScrollBar());
+        getHorizontalScrollBar().setUI(new RScrollBar());
         this.path=path;
     }
 

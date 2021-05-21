@@ -6,8 +6,80 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d5864c4-732d-4d8f-b198-f929dbe62751" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="5d5864c4-732d-4d8f-b198-f929dbe62751" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Hotel_jar2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.11.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Hotel_jar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Hotel_jar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Hotel.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Hotel.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.37-bin.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/Hotel_jar/Hotel.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$BodyPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$BodyPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$DayLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$DayLabel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$FooterPanel$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$FooterPanel$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$FooterPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$FooterPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$LabelManager.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$LabelManager.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$TitlePanel$MyMouseAdapter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$TitlePanel$MyMouseAdapter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$TitlePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$TitlePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$WeekLabel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser$WeekLabel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Chooser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/FileUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/IntroduceDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/IntroduceDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/LoginSetDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/LoginSetDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/RScrollPane.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/RScrollPane.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/RechargeDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/RechargeDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/ReservationModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/ReservationModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Tool.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/Tool.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/UserInfoDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/UserInfoDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/YudingDialog.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/control/YudingDialog.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/AdminDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/AdminDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/CommentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/CommentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/DaoConnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/DaoConnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/HistoryDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/HistoryDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/HouseDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/HouseDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/ReservationDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/ReservationDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/RoomInfoDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/RoomInfoDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/UserDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/dao/UserDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/LoginFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/Register.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/Register.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/UserFrame.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/frame/UserFrame.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/AdminPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/AdminPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/HistoryStatics.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/HistoryStatics.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/HousePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/HousePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/MoreRoomPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/MoreRoomPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/RoomPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/RoomPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/UserPanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/com/ludashen/panel/UserPanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Hotel/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Hotel/druid.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pass" beforeDir="false" afterPath="$PROJECT_DIR$/pass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/Chooser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/Chooser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/CircleButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/CircleButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/FileUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/FileUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/IntroduceDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/IntroduceDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RButton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RButton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RPasswordField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RPasswordField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RScrollPane.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RScrollPane.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RTextField.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RTextField.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/RechargeDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/RechargeDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/ReservationModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/ReservationModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/Tool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/Tool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/control/YudingDialog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/control/YudingDialog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/dao/DaoConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/dao/DaoConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/dao/HistoryDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/dao/HistoryDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/frame/AdminFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/frame/AdminFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/frame/LoginFrame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/frame/LoginFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/ludashen/panel/HistoryStatics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/ludashen/panel/HistoryStatics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/druid.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/druid.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,59 +111,56 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1U5rxAt5AfFGQhLGBeadV2MHM03" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="Downloaded.Files.Path.Enabled" value="false" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib" />
+    <property name="project.structure.last.edited" value="Artifacts" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\tabp" />
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\Tabp" />
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource" />
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\lib" />
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\button" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ludashen.test" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Ecplise\Hotel\lib" />
       <recent name="C:\Users\Administrator\IdeaProjects\Hotel\image\head" />
       <recent name="C:\Users\Administrator\IdeaProjects\Hotel\lib" />
       <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\button" />
       <recent name="C:\Users\Administrator\IdeaProjects\Hotel\font" />
-      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\user" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.ludashen.control" />
       <recent name="com.ludashen.frame" />
     </key>
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="com.ludashen.test" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\tabp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\Tabp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.RunFrame">
     <configuration name="AdminFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -107,12 +176,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ludashen.test.Dome" />
+    <configuration name="DaoConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.dao.DaoConnection" />
       <module name="Hotel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ludashen.control.*" />
+          <option name="PATTERN" value="com.ludashen.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IntroduceDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ludashen.control.IntroduceDialog" />
+    <configuration name="EncryptionUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.test.EncryptionUtil" />
       <module name="Hotel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ludashen.control.*" />
+          <option name="PATTERN" value="com.ludashen.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -133,12 +202,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.ludashen.frame.LoginFrame" />
+    <configuration name="HistoryDao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.dao.HistoryDao" />
       <module name="Hotel" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.ludashen.frame.*" />
+          <option name="PATTERN" value="com.ludashen.dao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,10 +231,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.RunFrame" />
+        <item itemvalue="Application.DaoConnection" />
+        <item itemvalue="Application.HistoryDao" />
+        <item itemvalue="Application.EncryptionUtil" />
         <item itemvalue="Application.AdminFrame" />
-        <item itemvalue="Application.LoginFrame" />
-        <item itemvalue="Application.IntroduceDialog" />
-        <item itemvalue="Application.Dome" />
       </list>
     </recent_temporary>
   </component>
@@ -216,13 +285,44 @@
       <workItem from="1575856649077" duration="9662000" />
       <workItem from="1575869589497" duration="1889000" />
       <workItem from="1575884837882" duration="4740000" />
-      <workItem from="1575894722509" duration="6970000" />
-      <workItem from="1575902937434" duration="123000" />
+      <workItem from="1575894722509" duration="7636000" />
+      <workItem from="1575903369676" duration="97000" />
+      <workItem from="1576072682344" duration="2797000" />
+      <workItem from="1576075953488" duration="1921000" />
+      <workItem from="1576081035743" duration="1914000" />
+      <workItem from="1576159639335" duration="1971000" />
+      <workItem from="1621609655908" duration="3837000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="928" height="161" key="GridCell.Tab.0.bottom" timestamp="1621612489984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="161" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1621612489984" />
+    <state width="928" height="161" key="GridCell.Tab.0.center" timestamp="1621612489984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="161" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1621612489984" />
+    <state width="928" height="161" key="GridCell.Tab.0.left" timestamp="1621612489981">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="161" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1621612489981" />
+    <state width="928" height="161" key="GridCell.Tab.0.right" timestamp="1621612489984">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="928" height="161" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1621612489984" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1621607261483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1621607261483" />
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog" timestamp="1621609775578">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="343" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1621609775578" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Hotel$HistoryDao.ic" NAME="HistoryDao Coverage Results" MODIFIED="1575805497245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

@@ -4,11 +4,14 @@ import com.ludashen.control.*;
 import com.ludashen.dao.AdminDao;
 import com.ludashen.dao.ContFile;
 import com.ludashen.dao.UserDao;
+import jdk.nashorn.internal.scripts.JO;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 import java.net.URL;
+import java.sql.SQLException;
+
 /**
  * @description: 登录界面
  * @author: 陆均琪
@@ -98,35 +101,40 @@ public class LoginFrame extends JFrame {
         }));
 
         LoginButton.addActionListener(e -> {
-            String pass = file.readFile("pass");
-            String[] sp = pass.split("@");
-            String name = userName.getText();
-            String spass = new String(password.getPassword());
-            if (!isAdmin) {
-                if (UserDao.getUser(name, spass)) {
-                    if (sp[0].trim().equals("0")) {
-                        file.writeFile("pass", "0@" + name + "@" + spass);
+            try {
+                String pass = file.readFile("pass");
+                String[] sp = pass.split("@");
+                String name = userName.getText();
+                String spass = new String(password.getPassword());
+                if (!isAdmin) {
+                    if (UserDao.getUser(name, spass)) {
+                        if (sp[0].trim().equals("0")) {
+                            file.writeFile("pass", "0@" + name + "@" + spass);
+                        } else {
+                            file.writeFile("pass", "1");
+                        }
+                        new UserFrame(name).setVisible(true);
+                        dispose();
                     } else {
-                        file.writeFile("pass", "1");
+                        JOptionPane.showMessageDialog(null, "您现在正在登陆用户系统，而用户密码或名字错误");
                     }
-                    new UserFrame(name).setVisible(true);
-                    dispose();
-                }else {
-                    JOptionPane.showMessageDialog(null,"您现在正在登陆用户系统，而用户密码或名字错误");
-                }
-            }else {
-                if(AdminDao.getAdminLogin(name,spass)){
-                    if (sp[0].trim().equals("0")) {
-                        file.writeFile("pass", "0@" + name + "@" + spass);
+                } else {
+                    if (AdminDao.getAdminLogin(name, spass)) {
+                        if (sp[0].trim().equals("0")) {
+                            file.writeFile("pass", "0@" + name + "@" + spass);
+                        } else {
+                            file.writeFile("pass", "1");
+                        }
+                        new AdminFrame(name).setVisible(true);
+                        dispose();
                     } else {
-                        file.writeFile("pass", "1");
+                        JOptionPane.showMessageDialog(null, "您现在正在登陆管理系统，用户密码或名字错误");
                     }
-                    new AdminFrame(name).setVisible(true);
-                    dispose();
-                }else {
-                    JOptionPane.showMessageDialog(null,"您现在正在登陆管理系统，用户密码或名字错误");
-                }
 
+                }
+            }catch (Exception e1){
+//                new ContFile().writeFile("e.txt",e1.printStackTrace());
+                JOptionPane.showMessageDialog(null,e1.getLocalizedMessage());
             }
         });
 

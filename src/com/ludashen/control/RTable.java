@@ -5,7 +5,7 @@ import javax.swing.table.TableCellRenderer;
 import java.awt.*;
 
 /**
- * @description:
+ * @description:表格重写实现各行变色
  * @author: 陆均琪
  * @Data: 2019-12-08 22:39
  */

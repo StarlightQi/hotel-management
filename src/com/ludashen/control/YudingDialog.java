@@ -1,16 +1,13 @@
 package com.ludashen.control;
 
 import com.ludashen.dao.ReservationDao;
-import com.ludashen.dao.UserDao;
-import com.ludashen.frame.UserFrame;
-import com.ludashen.hothl.Users;
 
 import javax.swing.*;
 import java.awt.*;
 import java.util.Date;
 
 /**
- * @description:
+ * @description: 预定房间对话框
  * @author: 陆均琪
  * @Data: 2019-12-05 23:15
  */

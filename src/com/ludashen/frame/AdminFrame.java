@@ -170,5 +170,4 @@ public class AdminFrame extends JFrame {
         setJMenuBar(menuBar);
     }
 
-
 }
