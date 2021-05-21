@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="InBrowseV6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/com/ludashen/test/InBrowseV6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="jar://$PROJECT_DIR$/src/com/ludashen/test/InBrowseV6.jar!/" recursive="false" />
+  </library>
+</component>

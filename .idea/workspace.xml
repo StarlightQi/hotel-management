@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Hotel:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d5864c4-732d-4d8f-b198-f929dbe62751" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaFXApplication" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U5rxAt5AfFGQhLGBeadV2MHM03" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\tabp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\resource\Tabp" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\lib" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\button" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\image\head" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\lib" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\button" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\font" />
+      <recent name="C:\Users\Administrator\IdeaProjects\Hotel\src\com\ludashen\resource\user" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.ludashen.control" />
+      <recent name="com.ludashen.frame" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.ludashen.test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.RunFrame">
+    <configuration name="AdminFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.frame.AdminFrame" />
+      <module name="Hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ludashen.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Dome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.test.Dome" />
+      <module name="Hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ludashen.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="IntroduceDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.control.IntroduceDialog" />
+      <module name="Hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ludashen.control.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.frame.LoginFrame" />
+      <module name="Hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ludashen.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RunFrame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.ludashen.frame.RunFrame" />
+      <module name="Hotel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ludashen.frame.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.RunFrame" />
+        <item itemvalue="Application.AdminFrame" />
+        <item itemvalue="Application.LoginFrame" />
+        <item itemvalue="Application.IntroduceDialog" />
+        <item itemvalue="Application.Dome" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d5864c4-732d-4d8f-b198-f929dbe62751" name="Default Changelist" comment="" />
+      <created>1574657540507</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574657540507</updated>
+      <workItem from="1574657544857" duration="4975000" />
+      <workItem from="1574662603180" duration="861000" />
+      <workItem from="1574675339971" duration="4761000" />
+      <workItem from="1574682377475" duration="742000" />
+      <workItem from="1574683319264" duration="14531000" />
+      <workItem from="1574728519227" duration="3993000" />
+      <workItem from="1574739422882" duration="8979000" />
+      <workItem from="1574762141892" duration="461000" />
+      <workItem from="1574764848855" duration="357000" />
+      <workItem from="1575096715215" duration="67000" />
+      <workItem from="1575216157622" duration="372000" />
+      <workItem from="1575291008497" duration="274000" />
+      <workItem from="1575291330497" duration="12006000" />
+      <workItem from="1575304352423" duration="5053000" />
+      <workItem from="1575344328099" duration="14031000" />
+      <workItem from="1575366513822" duration="4407000" />
+      <workItem from="1575374539466" duration="14569000" />
+      <workItem from="1575431383850" duration="12020000" />
+      <workItem from="1575445179653" duration="15953000" />
+      <workItem from="1575464536921" duration="11758000" />
+      <workItem from="1575517698177" duration="18296000" />
+      <workItem from="1575548221869" duration="13287000" />
+      <workItem from="1575591964021" duration="2659000" />
+      <workItem from="1575595770044" duration="11555000" />
+      <workItem from="1575619817425" duration="175000" />
+      <workItem from="1575620018579" duration="1683000" />
+      <workItem from="1575623622069" duration="13248000" />
+      <workItem from="1575639954253" duration="1605000" />
+      <workItem from="1575641702249" duration="10479000" />
+      <workItem from="1575652436174" duration="938000" />
+      <workItem from="1575681340314" duration="18738000" />
+      <workItem from="1575702310227" duration="40044000" />
+      <workItem from="1575774128173" duration="33744000" />
+      <workItem from="1575813725453" duration="9154000" />
+      <workItem from="1575856649077" duration="9662000" />
+      <workItem from="1575869589497" duration="1889000" />
+      <workItem from="1575884837882" duration="4740000" />
+      <workItem from="1575894722509" duration="6970000" />
+      <workItem from="1575902937434" duration="123000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Hotel$HistoryDao.ic" NAME="HistoryDao Coverage Results" MODIFIED="1575805497245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.ludashen.dao.*</FILTER>
+    </SUITE>
+  </component>
+</project>
